@@ -61,7 +61,7 @@ The below figure describes the methodology, data processing, and technologies wh
 
 ### Project Files:
 
-- #### [README](https://github.com/Samimust/my-yelp/blob/master/README.md)
+- #### [README](https://github.com/Samimust/my-yelper/blob/master/README.md)
 
 - ####  [Project Proposal](https://github.com/Samimust/my-yelper/blob/master/Project%20Proposal.md)
 
